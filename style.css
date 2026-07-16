@@ -173,6 +173,10 @@
     color:var(--text-dim);
     backdrop-filter: blur(8px);
   }
+  .pills span {
+    color: #4EEAFF;
+    text-shadow: 0 4px 10px #00c3ffc4;
+  }
 
   /* ---------- LINK CARDS ---------- */
   .frames{
